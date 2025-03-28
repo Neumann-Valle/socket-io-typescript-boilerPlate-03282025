@@ -1,10 +1,6 @@
-# Socket.IO TypeScript Boilerplate
-
-This boilerplate is supplementary to my Socket.IO TypeScript course at [https://www.udemy.com/course/typescript-socketio/?referralCode=2F6E227AC7EB9D147327](https://www.udemy.com/course/typescript-socketio/?referralCode=2F6E227AC7EB9D147327)
+# socket-io-typescript-boilerPlate-03282025
 
 ```bash
-git clone https://github.com/Sean-Bradley/Socket.IO-TypeScript-Boilerplate.git
-cd Socket.IO-TypeScript-Boilerplate
 npm install
 npm run dev
 ```
